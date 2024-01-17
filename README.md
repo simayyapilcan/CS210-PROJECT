@@ -51,33 +51,23 @@ In this section, we will summarize the key findings and insights obtained from t
 
 1. Hearth Rate Analysis ❤️
 
-- Point 1
-- Point 2
-- Point 3
+- The analysis of heart rate data aimed to uncover patterns and relationships with other health activities. A key finding is that most heart rate readings fall within normal ranges, with only one exceptionally low value at 40 bpm.
+- A comprehensive "Health Score" was developed using metrics like Steps, Heart Rate, Burned Energy Active, and Flights Climbed. This score, ranging between 0 and 100, reflects overall health. The Gradient Boosting Regressor, after comparing various models, was found to be the best in predicting this health score.
 
 2. Physical Activities Analysis 🏃🏼‍♀️
 
-- Point 1
-- Point 2
-- Point 3
+- Since I am engaging with sport activities, my average daily steps are quite sufficient when combined with average kalories spent.
+- When I checked out the outliers, I remembered that were happened during specific events.
 
 3. Audio Exposure Analysis 🔊
 
-- Point 1
-- Point 2
-- Point 3
+- When I checked out the red zones in my exposure data, those are mostly happened when I am studying or doing sports.
+- Overall my audio exposure is not so high. 
 
 4. Sleep Analysis 😴
 
-- Point 1
-- Point 2 
-- Point 3
+- Due to lack of data I could not comprehend a complete analysis. However, as far as I can observe from the small data and my personel experience, my sleep quality is not so good.
 
-5. Key Insights 🔑
-
-- [Summarize the most important insights gained from the analysis]
-- [Highlight any unexpected or interesting findings]
-- [Discuss the potential implications of these insights for health and well-being]
 
 
 
