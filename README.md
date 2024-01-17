@@ -56,17 +56,18 @@ In this section, we will summarize the key findings and insights obtained from t
 
 2. Physical Activities Analysis 🏃🏼‍♀️
 
-- Since I am engaging with sport activities, my average daily steps are quite sufficient when combined with average kalories spent.
-- When I checked out the outliers, I remembered that were happened during specific events.
+- The analysis reveals that my average daily steps are quite sufficient, reflecting my active engagement in sports activities. This is further supported by the average calories spent each day.
+- Notably, when examining outliers in the step count data, I realized these instances corresponded to specific events, indicating higher than usual physical activity during these times.
 
 3. Audio Exposure Analysis 🔊
 
-- When I checked out the red zones in my exposure data, those are mostly happened when I am studying or doing sports.
-- Overall my audio exposure is not so high. 
+- An examination of the red zones in my audio exposure data showed that these higher exposure levels mostly occurred during periods of study or sports activities.
+- Overall, my audio exposure levels are not excessively high, suggesting a balanced auditory environment in my daily life.
 
 4. Sleep Analysis 😴
 
-- Due to lack of data I could not comprehend a complete analysis. However, as far as I can observe from the small data and my personel experience, my sleep quality is not so good.
+- Due to limited data availability, a comprehensive analysis of my sleep patterns was challenging. However, from the available data and my personal experiences, it seems that my sleep quality is not optimal.
+- The preliminary observations indicate irregularities in sleep duration and possibly quality, which may be an area for further investigation and improvement.
 
 
 
